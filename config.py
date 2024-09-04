@@ -1,4 +1,4 @@
-BOT_TOKEN = '6779859426:AAFAwaEy17L1xopO5Waj2V85b8ynb5xBJIs'
+BOT_TOKEN = 'my token'
 NEWS_SOURCES = [
     'https://techcrunch.com/tag/artificial-intelligence/feed/',
     'https://www.technologyreview.com/tag/artificial-intelligence/feed/',
